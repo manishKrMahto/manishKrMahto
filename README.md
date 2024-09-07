@@ -16,8 +16,9 @@
 
 - [Twitter](https://x.com/ManishFromIt)
 - [LinkedIn](https://www.linkedin.com/in/manish-kumar-mahto/)
-- [GitHub](https://github.com/manishKrMahto)
+- [GitHub](https://github.com/manishKrMahto)  😂😂
 - [Kaggle](https://www.kaggle.com/manishfromit)
+- [Portfolio](https://manishkrmahto.github.io/portfolio/)
 
 ---
 
