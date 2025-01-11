@@ -1,66 +1,40 @@
-# 🌟 Hi there, I'm Manish Kumar Mahto!
+---
 
-### 🚀 Data Science Explorer | Deep Learning Enthusiast | Open for ML Internships
+# Hi, I'm Manish Kumar Mahto! 🌟
 
-- 💡 I’m diving deep into **Deep Learning** to master neural networks and AI.
-- 📊 Exploring **Machine Learning** projects and real-world applications.
-- 🌱 Growing my skills with **Python**, **SQL**, and **Data Science Tools**.
-- 🎯 Check out my **latest projects** [here](https://manishkrmahto.github.io/portfolio/).
-- 💬 Let’s chat about **Data Science, Python, or GitHub**—I’d love to help!
-- ⚡ Fun fact: I can transform messy data into valuable insights!
-- 📧 Contact me: **manishcode123@gmail.com**
+🚀 **Data Science Explorer** | 🤖 **Deep Learning Enthusiast** | 📚 **Lifelong Learner**  
+💡 Currently mastering **Machine Learning** and **Deep Learning** to solve real-world problems.  
+🌱 Constantly growing my skills in **Python**, **SQL**, and **AI tools** through hands-on projects.  
+🎯 Check out my latest work and projects below.
 
 ---
 
-### 🌐 Let's Connect!
-
-- [Twitter](https://x.com/ManishFromIt)
-- [LinkedIn](https://www.linkedin.com/in/manish-kumar-mahto/)
-- [GitHub](https://github.com/manishKrMahto)  😂😂
-- [Kaggle](https://www.kaggle.com/manishfromit)
-- [Portfolio](https://manishkrmahto.github.io/Manish-Kumar-Mahto/)
-
----
-
-### ✨ About Me
-
-I'm **Manish Kumar Mahto**, a final-year **BSc in IT** student passionate about leveraging **AI** and **Data Science** to solve real-world problems. My focus is on mastering **Machine Learning** and **Deep Learning** while exploring innovative solutions.
-
-I believe data holds the key to powerful insights, and I'm dedicated to unlocking those insights through clean, structured analysis. When I'm not coding, I'm either working on AI models or collaborating with others on impactful projects.
+### 🔧 **Skills & Expertise**  
+- **Languages:** Python, Java, SQL  
+- **Data Science Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Streamlit  
+- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, XGBoost  
+- **Deep Learning:** ANN, CNN, RNN, LSTM, GRU  
+- **Tools:** Git, GitHub, Jupyter Notebooks, Excel  
+- **Data Engineering:** Data Cleaning, Feature Engineering, EDA  
 
 ---
 
-### 🔧 Skills
-
-- **Languages**: Python, Java, SQL
-- **Data Science Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Streamlit
-- **Machine Learning**: Scikit-learn, Regression, Classification, Clustering
-- **Data Engineering**: Data Cleaning, Feature Engineering, EDA
-- **Tools**: Git, GitHub, Jupyter Notebook, Excel
+### 💻 **Notable Projects**  
+- **Movie Recommendation System 🎥**: Built a content-based system using text vectorization and cosine similarity.  
+- **Mobile Price Predictor 📱**: Developed a predictive model with XGBoost, achieving 81.57% R².  
+- **Churn Prediction Using ANN**: Deployed an artificial neural network model for predicting bank customer churn with 86% accuracy.  
+- **Customer Segmentation Dashboard 📊**: Built an interactive dashboard using K-Means clustering for retail customer segmentation.  
 
 ---
 
-### 🚀 Featured Projects
+### 📚 **Learning Journey**  
+Since 2023, I’ve been **learning and documenting data science concepts daily** on LinkedIn, currently on **day 300** of my learning journey. I'm focused on mastering **Generative Adversarial Networks (GANs)** next! 🚀
 
-- **[Commodity Price Predictor](https://github.com/manishkumarmahto/commodity-price-predictor)**  
-  *A machine learning model that predicts prices for books, cars, bikes, laptops, and mobiles based on historical data.*
+---
 
-- **[New York Taxi Data Analysis](https://github.com/manishkumarmahto/nyc-taxi-data-analysis)**  
-  *Big data analysis on a 12GB New York taxi dataset to optimize ride times and uncover travel trends.*
+💬 **Let's Connect!**  
+Feel free to reach out to me if you're interested in data science, machine learning, or collaborating on exciting projects. I’m always open to learning and sharing ideas.  
 
-
-
-<!---
-- 👋 Hi, I’m @manishKrMahto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-
-<!---
-manishKrMahto/manishKrMahto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 **Contact me:** manishcode123@gmail.com  
+🌐 **Portfolio:** [manishkrmahto.github.io](https://manishkrmahto.github.io/Manish-Kumar-Mahto/)  
+🔗 **LinkedIn:** [Manish Kumar Mahto](https://www.linkedin.com/in/manish-kumar-mahto/)  
