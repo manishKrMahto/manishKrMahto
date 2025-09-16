@@ -1,40 +1,49 @@
----
+# Hi, I'm Manish Kumar Mahto! 🌟  
+🚀 Entry-Level Data Scientist | 🤖 Deep Learning & AI Enthusiast | 📚 Lifelong Learner  
 
-# Hi, I'm Manish Kumar Mahto! 🌟
+I’m a final-year **BSc (IT)** student passionate about **Data Science and Artificial Intelligence**.  
+Over the last **300+ days**, I’ve been learning, practicing, and sharing my journey in **ML & AI** on LinkedIn, while building a solid foundation in **Python, Statistics, Machine Learning, Deep Learning, and SQL**.  
 
-🚀 **Data Science Explorer** | 🤖 **Deep Learning Enthusiast** | 📚 **Lifelong Learner**  
-💡 Currently mastering **Machine Learning** and **Deep Learning** to solve real-world problems.  
-🌱 Constantly growing my skills in **Python**, **SQL**, and **AI tools** through hands-on projects.  
-🎯 Check out my latest work and projects below.
-
----
-
-### 🔧 **Skills & Expertise**  
-- **Languages:** Python, Java, SQL  
-- **Data Science Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Streamlit  
-- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, XGBoost  
-- **Deep Learning:** ANN, CNN, RNN, LSTM, GRU  
-- **Tools:** Git, GitHub, Jupyter Notebooks, Excel  
-- **Data Engineering:** Data Cleaning, Feature Engineering, EDA  
+I also completed a **1-year Data Science Internship** at a US-based startup, where I:  
+- Built and deployed **ML/DL models** for real-world use cases.  
+- Contributed to **data pipelines, code reviews, and bootcamp learning materials**.  
+- Worked with **advanced AI frameworks** like **Transformers, LangChain, and RAG pipelines**.  
 
 ---
 
-### 💻 **Notable Projects**  
-- **Movie Recommendation System 🎥**: Built a content-based system using text vectorization and cosine similarity.  
-- **Mobile Price Predictor 📱**: Developed a predictive model with XGBoost, achieving 81.57% R².  
-- **Churn Prediction Using ANN**: Deployed an artificial neural network model for predicting bank customer churn with 86% accuracy.  
-- **Customer Segmentation Dashboard 📊**: Built an interactive dashboard using K-Means clustering for retail customer segmentation.  
+## 🔧 Skills & Expertise
+- **Programming:** Python, SQL, Java  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit, Git, Jupyter Notebooks  
+- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Model Deployment, XGBoost  
+- **Deep Learning:** ANN, CNN, RNN, LSTM, GRU, Transformers, GANs  
+- **Data Handling:** Data Cleaning, EDA, MySQL  
+- **Emerging Focus:** LangChain, RAG Systems, Generative AI  
 
 ---
 
-### 📚 **Learning Journey**  
-Since 2023, I’ve been **learning and documenting data science concepts daily** on LinkedIn, currently on **day 300** of my learning journey. I'm focused on mastering **Generative Adversarial Networks (GANs)** next! 🚀
+## 💻 Notable Projects
+- 🎥 **Movie Recommendation System**: Built a content-based system using text vectorization & cosine similarity.  
+- 📚 **Book Recommendation System**: Collaborative filtering model recommending top 5 similar books.  
+- 📱 **Mobile Price Predictor**: Achieved **81.57% R²** using XGBoost regression.  
+- 🏦 **Churn Prediction (ANN)**: Designed an ANN model with **86% accuracy** to predict bank customer churn.  
+- ❓ **Quora Duplicate Question Classifier**: Achieved **78% accuracy** using Random Forest & NLP techniques.  
+- 📊 **Customer Segmentation Dashboard**: K-Means clustering with interactive Streamlit visualizations.  
+- 🛒 **Diwali Sales Analysis**: Data cleaning, EDA, and visualization to uncover consumer trends.  
 
 ---
 
-💬 **Let's Connect!**  
-Feel free to reach out to me if you're interested in data science, machine learning, or collaborating on exciting projects. I’m always open to learning and sharing ideas.  
+## 📚 Learning Journey
+Since **2023**, I’ve been documenting my daily data science journey on LinkedIn (currently **Day 300+**).  
+My current focus is on mastering:  
+- **Generative Adversarial Networks (GANs)**  
+- **LangChain & RAG Systems** for AI-powered applications  
+- **Advanced Deep Learning** architectures  
 
-📧 **Contact me:** manishcode123@gmail.com  
+---
+
+## 💬 Let’s Connect!
+I’m eager to start my career as a **Data Scientist / Machine Learning Engineer** where I can apply my skills to solve business problems, contribute to AI solutions, and grow with industry leaders.  
+
+📧 **Email:** manishcode123@gmail.com  
 🌐 **Portfolio:** [manishkrmahto.github.io](https://manishkrmahto.github.io/Manish-Kumar-Mahto/)  
 🔗 **LinkedIn:** [Manish Kumar Mahto](https://www.linkedin.com/in/manish-kumar-mahto/)  
