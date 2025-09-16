@@ -5,7 +5,7 @@ I’m a final-year **BSc (IT)** student passionate about **Data Science and Arti
 Over the last **300+ days**, I’ve been learning, practicing, and sharing my journey in **ML & AI** on LinkedIn, while building a solid foundation in **Python, Statistics, Machine Learning, Deep Learning, and SQL**.  
 
 I also completed a **1-year Data Science Internship** at a US-based startup, where I:  
-- Built and deployed **ML/DL models** for real-world use cases.  
+- Built **ML/DL models** for real-world use cases.  
 - Contributed to **data pipelines, code reviews, and bootcamp learning materials**.  
 - Worked with **advanced AI frameworks** like **Transformers, LangChain, and RAG pipelines**.  
 
